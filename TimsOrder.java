@@ -1,4 +1,4 @@
-package assignment7_000794612;
+package cafeCheckout;
 
 import java.util.Scanner;
 
