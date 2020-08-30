@@ -1,4 +1,4 @@
-package assignment7_000794612;
+package cafeCheckout;
 
 /**
 * This Test class is the main class which prints the order total.
