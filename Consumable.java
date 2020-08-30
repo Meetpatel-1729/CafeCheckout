@@ -1,4 +1,4 @@
-package assignment7_000794612;
+package cafeCheckout;
 
 /**
  * This is an interface Consumable to use multiple inheritance
